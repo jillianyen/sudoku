@@ -1,5 +1,3 @@
-package sudoku;
-
 import java.util.*;
 public class SudoModel
 {
